@@ -1,0 +1,13 @@
++ {
+ +  "name": "angular-sourcemaps",
+ +  "version": "0.0.1",
+ +  "description": "The Mozilla Sourcemap library implementation for AngularJS",
+ +  "author": "markwylde",
+ +  "license": "MIT",
+ +  "homepage": "https://github.com/markwylde/angular-sourcemaps",
+ +  "main": [
+ +    "dist/source-map.min.js",
+ +    "dist/angular-sourcemaps.min.js"
+ +  ],
+ +  "dependencies": {}
+ +}
